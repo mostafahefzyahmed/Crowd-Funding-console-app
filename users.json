@@ -1,0 +1,18 @@
+{
+    "mo@gmail.com": {
+        "first_name": "mo",
+        "last_name": "mo",
+        "email": "mo@gmail.com",
+        "password": "123456",
+        "mobile_phone": "01111111111",
+        "projects": []
+    },
+    "ali@gmail.com": {
+        "first_name": "ali",
+        "last_name": "ali",
+        "email": "ali@gmail.com",
+        "password": "123456",
+        "mobile_phone": "01111111111",
+        "projects": []
+    }
+}
